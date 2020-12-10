@@ -1,1 +1,4 @@
 // заглушка
+function temperature (){
+
+}
